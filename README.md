@@ -20,6 +20,16 @@ Realizar un diagnóstico inicial de calidad del dataset de Pokémon con Python y
 
 El archivo se genera con `scripts/descargar_pokeapi.py`.
 
+## Resultados del diagnóstico (resumen)
+
+- 1025 filas y 14 columnas; sin duplicados ni inconsistencias detectadas.
+- Único valor faltante: `tipo_2` (499 nulos, 48.68 %), que corresponde a Pokémon de un solo tipo.
+- Valores atípicos en `hp`, `defensa` y `defensa_especial`, por revisar.
+- Los legendarios y míticos elevan el promedio del total (592.0 frente a 411.1 del resto).
+- Limitaciones: una sola fuente y una sola forma por Pokémon.
+
+El detalle completo está en `reports/informe_diagnostico.md`.
+
 ## Estructura
 
 ```
