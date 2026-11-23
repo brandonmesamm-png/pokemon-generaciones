@@ -28,7 +28,7 @@ El archivo se genera con `scripts/descargar_pokeapi.py`.
 - Los legendarios y míticos elevan el promedio del total (592.0 frente a 411.1 del resto).
 - Limitaciones: una sola fuente y una sola forma por Pokémon.
 
-El detalle completo está en `reports/informe_diagnostico.md`.
+El detalle completo está en `reports/data_quality.md`.
 
 ## Estructura
 
@@ -43,9 +43,9 @@ pokemon-generaciones/
 ├── scripts/
 │   └── descargar_pokeapi.py
 ├── notebooks/
-│   └── diagnostico_calidad.ipynb
+│   └── data_quality.ipynb
 └── reports/
-    └── informe_diagnostico.md
+    └── data_quality.md
 ```
 
 ## Cómo reproducir el diagnóstico (Windows, cmd)
@@ -64,11 +64,11 @@ pokemon-generaciones/
    ```
    python scripts\descargar_pokeapi.py
    ```
-5. Abrir JupyterLab y ejecutar `notebooks/diagnostico_calidad.ipynb` completo:
+5. Abrir JupyterLab y ejecutar `notebooks/data_quality.ipynb` completo:
    ```
    jupyter lab
    ```
 
 ## Informe
 
-Ver `reports/informe_diagnostico.md`.
+Ver `reports/data_quality.md`.

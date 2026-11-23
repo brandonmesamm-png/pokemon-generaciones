@@ -1,8 +1,8 @@
 # Informe de diagnóstico de calidad de datos — Pokémon por generaciones
 
 **Autor:** Brandon Maldonado Mesa · Ficha 3169901
-**Actividad:** GA1-220501094-01-AA1-EV06 — Diagnosticar la calidad de datos
-**Notebook de soporte:** `notebooks/diagnostico_calidad.ipynb`
+**Actividad:** GA1-220501094-01-AA1-EV05 — Diagnosticar la calidad de datos
+**Notebook de soporte:** `notebooks/data_quality.ipynb`
 
 ## 1. Proyecto y pregunta analítica
 
