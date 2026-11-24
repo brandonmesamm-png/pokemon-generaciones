@@ -1,0 +1,11 @@
+metrica,antes,despues
+filas,1025,1025
+columnas,14,15
+nulos_totales,499,499
+filas_duplicadas,0,0
+ids_repetidos,0,0
+total_distinto_de_suma,0,0
+estadisticas_fuera_de_rango,0,0
+generacion_fuera_de_rango,0,0
+tipos_invalidos,0,0
+memoria_kb,234.7,83.0

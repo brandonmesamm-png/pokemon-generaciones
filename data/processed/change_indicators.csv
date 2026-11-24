@@ -1,0 +1,13 @@
+grupo,estadistica,gen_1,gen_9,cambio,cambio_pct,pendiente_por_gen
+todos,hp,64.21,77.39,13.18,20.53,1.08
+todos,ataque,72.91,82.42,9.51,13.04,1.63
+todos,defensa,68.23,76.78,8.56,12.54,1.07
+todos,defensa_especial,66.09,72.47,6.39,9.67,0.56
+todos,velocidad,69.07,75.45,6.38,9.24,0.86
+todos,ataque_especial,67.14,72.87,5.73,8.53,0.96
+sin_especiales,hp,63.15,75.83,12.68,20.08,0.9
+sin_especiales,ataque,72.09,80.64,8.55,11.86,1.49
+sin_especiales,defensa,67.38,74.28,6.9,10.24,0.98
+sin_especiales,ataque_especial,65.34,71.09,5.76,8.81,0.92
+sin_especiales,velocidad,67.97,73.06,5.09,7.49,0.63
+sin_especiales,defensa_especial,64.99,69.56,4.56,7.02,0.54
